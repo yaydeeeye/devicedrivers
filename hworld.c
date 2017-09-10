@@ -1,6 +1,6 @@
 /*  hello.c - The simplest kernel module
- *  Copyrighter
- *  Date
+ *  Copyrighter - Adithya
+ *  Date - 10/09/2017
  */
 
 /* Kernel Programming */
